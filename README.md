@@ -2,7 +2,11 @@
 
 A new Flutter Application to generate secure password, store the passwords in an encrypted form.
 
+**------------------------------------------------------------------------------------------------------------------------------------------**
+
 **APK link :** https://github.com/rahulprasanth487/Password_Vault_Flutter_App/blob/master/build/app/outputs/flutter-apk/app-release.apk
+
+**------------------------------------------------------------------------------------------------------------------------------------------**
 
 ## Getting Started
 
