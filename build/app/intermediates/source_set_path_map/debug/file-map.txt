@@ -1,0 +1,24 @@
+com.example.password_vault.app-jetified-window-java-1.0.0-beta04-0 C:\Users\Dell\.gradle\caches\transforms-3\45bc225f0335b1a27bc406f264bf9892\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.password_vault.app-jetified-play-services-base-18.0.1-1 C:\Users\Dell\.gradle\caches\transforms-3\61ac63ec60b47817c1f0d5a77a9b8e11\transformed\jetified-play-services-base-18.0.1\res
+com.example.password_vault.app-jetified-security-crypto-1.1.0-alpha04-2 C:\Users\Dell\.gradle\caches\transforms-3\71504c3e35208e24ec8df7c726a38a93\transformed\jetified-security-crypto-1.1.0-alpha04\res
+com.example.password_vault.app-jetified-window-1.0.0-beta04-3 C:\Users\Dell\.gradle\caches\transforms-3\7d21805b05bd3efb5a4e0aca561a5f80\transformed\jetified-window-1.0.0-beta04\res
+com.example.password_vault.app-jetified-play-services-auth-20.6.0-4 C:\Users\Dell\.gradle\caches\transforms-3\84e9a0544fdcd851f32f4447950063d8\transformed\jetified-play-services-auth-20.6.0\res
+com.example.password_vault.app-jetified-annotation-experimental-1.1.0-5 C:\Users\Dell\.gradle\caches\transforms-3\8ebb6d242227f9156fb6b017f531ad43\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.password_vault.app-jetified-play-services-basement-18.2.0-6 C:\Users\Dell\.gradle\caches\transforms-3\8ef0f465251ea8d9ed7a2076d0abf676\transformed\jetified-play-services-basement-18.2.0\res
+com.example.password_vault.app-browser-1.4.0-7 C:\Users\Dell\.gradle\caches\transforms-3\917fad1cce8a3648c7ebb076e22843db\transformed\browser-1.4.0\res
+com.example.password_vault.app-jetified-firebase-common-20.3.3-8 C:\Users\Dell\.gradle\caches\transforms-3\ab109c50a8362f0c3a7aee93885ab2f7\transformed\jetified-firebase-common-20.3.3\res
+com.example.password_vault.app-core-1.6.0-9 C:\Users\Dell\.gradle\caches\transforms-3\da97aaf6c7e22e7e710b7f19ac06880c\transformed\core-1.6.0\res
+com.example.password_vault.app-debug-10 D:\FLUTTER PROJECT\password_vault\android\app\src\debug\res
+com.example.password_vault.app-main-11 D:\FLUTTER PROJECT\password_vault\android\app\src\main\res
+com.example.password_vault.app-google-services-12 D:\FLUTTER PROJECT\password_vault\build\app\generated\res\google-services\debug
+com.example.password_vault.app-pngs-13 D:\FLUTTER PROJECT\password_vault\build\app\generated\res\pngs\debug
+com.example.password_vault.app-resValues-14 D:\FLUTTER PROJECT\password_vault\build\app\generated\res\resValues\debug
+com.example.password_vault.app-rs-15 D:\FLUTTER PROJECT\password_vault\build\app\generated\res\rs\debug
+com.example.password_vault.app-mergeDebugResources-16 D:\FLUTTER PROJECT\password_vault\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.password_vault.app-mergeDebugResources-17 D:\FLUTTER PROJECT\password_vault\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.password_vault.app-merged_res-18 D:\FLUTTER PROJECT\password_vault\build\app\intermediates\merged_res\debug
+com.example.password_vault.app-packaged_res-19 D:\FLUTTER PROJECT\password_vault\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.password_vault.app-packaged_res-20 D:\FLUTTER PROJECT\password_vault\build\firebase_auth\intermediates\packaged_res\debug
+com.example.password_vault.app-packaged_res-21 D:\FLUTTER PROJECT\password_vault\build\firebase_core\intermediates\packaged_res\debug
+com.example.password_vault.app-packaged_res-22 D:\FLUTTER PROJECT\password_vault\build\flutter_secure_storage\intermediates\packaged_res\debug
+com.example.password_vault.app-packaged_res-23 D:\FLUTTER PROJECT\password_vault\build\google_sign_in_android\intermediates\packaged_res\debug

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333510818712",
+    "project_id": "password-vault-app",
+    "storage_bucket": "password-vault-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333510818712:android:ac05bb70c810e27f12c9ed",
+        "android_client_info": {
+          "package_name": "com.example.password_vault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333510818712-k07c98gq13qpinblukafqbj22s0ppq0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj93FZVx_AOc1Y1ihv4txskrGvSeiyEf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333510818712-k07c98gq13qpinblukafqbj22s0ppq0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

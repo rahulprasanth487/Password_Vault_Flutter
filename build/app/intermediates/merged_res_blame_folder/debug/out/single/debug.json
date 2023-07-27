@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.password_vault.app-merged_res-18:/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "com.example.password_vault.app-main-11:/mipmap-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.password_vault.app-merged_res-18:/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "com.example.password_vault.app-main-11:/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.password_vault.app-merged_res-18:/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "com.example.password_vault.app-main-11:/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.password_vault.app-merged_res-18:/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "com.example.password_vault.app-main-11:/mipmap-xxxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.password_vault.app-merged_res-18:/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "com.example.password_vault.app-main-11:/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.5\\com.example.password_vault.app-merged_res-18:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.5\\com.example.password_vault.app-main-11:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.5\\com.example.password_vault.app-merged_res-18:\\drawable_launch_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.5\\com.example.password_vault.app-main-11:\\drawable\\launch_background.xml"
+    }
+]
